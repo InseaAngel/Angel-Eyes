@@ -16,11 +16,11 @@ This application is also made to be controlled by blind people vocally through k
 
 ### Project Full Presentation:
 
-You can find the project's detailled presentation in full  [here](https://github.com/IhabBendidi/AngelEyes/blob/master/Rapport%20AngelEyes.pdf). Note that it is fully in french. An english version is coming soon.
+You can find the project's detailled presentation in full  [here](). Note that it is fully in french. An english version is coming soon.
 
 ### Testing the Application : 
 
-You can test the application by downloading the APK through this [link](https://github.com/IhabBendidi/AngelEyes/blob/master/gradleBuild/outputs/apk/debug/android-debug.apk) and installing it on your android device.
+You can test the application by downloading the APK through this [link](https://github.com/InseaAngel/Angel-Eyes/blob/master/gradleBuild/outputs/apk/debug/android-debug.apk) and installing it on your android device.
 
 ### Compiling Source Code : 
 
