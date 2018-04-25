@@ -107,16 +107,17 @@
     <orderEntry type="library" name="com.android.support:multidex-1.0.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-media-compat-26.1.0" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-messaging-12.0.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/home/ihab/AndroidStudioProjects/AngelEyes/android/libs/listviewanimations_lib-core-slh_3.1.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="android.arch.lifecycle:common:1.0.0@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-common-12.0.0" level="project" />
     <orderEntry type="library" name="org.tensorflow:tensorflow-android-1.8.0-rc1" level="project" />
     <orderEntry type="library" scope="TEST" name="com.squareup:javawriter:2.1.1@jar" level="project" />
     <orderEntry type="library" name="android.arch.lifecycle:runtime-1.0.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/home/ihab/AndroidStudioProjects/AngelEyes/android/libs/universal-image-loader-1.9.3.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-storage-license-12.0.0" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-base-license-12.0.0" level="project" />
     <orderEntry type="library" name="com.android.support:support-annotations:26.1.0@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-common-license-12.0.0" level="project" />
-    <orderEntry type="library" name="__local_aars__:/home/ihab/git/AngelEyes/android/libs/nineoldandroids-2.4.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
     <orderEntry type="library" name="com.android.support.constraint:constraint-layout-1.0.2" level="project" />
     <orderEntry type="library" name="com.android.support:support-core-ui-26.1.0" level="project" />
@@ -133,7 +134,6 @@
     <orderEntry type="library" name="android.arch.core:common:1.0.0@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-iid-12.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="org.hamcrest:hamcrest-integration:1.3@jar" level="project" />
-    <orderEntry type="library" name="__local_aars__:/home/ihab/git/AngelEyes/android/libs/listviewanimations_lib-manipulation_3.1.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="net.sf.kxml:kxml2:2.3.0@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-auth-12.0.0" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-storage-12.0.0" level="project" />
@@ -145,6 +145,7 @@
     <orderEntry type="library" scope="TEST" name="junit:junit:4.12@jar" level="project" />
     <orderEntry type="library" name="com.google.android.gms:play-services-tasks-12.0.0" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-database-connection-12.0.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/home/ihab/AndroidStudioProjects/AngelEyes/android/libs/listviewanimations_lib-manipulation_3.1.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-storage-common-license-12.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="com.android.support.test.espresso:espresso-core-3.0.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-fragment-26.1.0" level="project" />
@@ -155,12 +156,11 @@
     <orderEntry type="library" name="com.google.firebase:firebase-firestore-12.0.0" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-auth-license-12.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="com.android.support.test:rules-1.0.1" level="project" />
-    <orderEntry type="library" name="__local_aars__:/home/ihab/git/AngelEyes/android/libs/listviewanimations_lib-core-slh_3.1.0.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="__local_aars__:/home/ihab/git/AngelEyes/android/libs/universal-image-loader-1.9.3.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="__local_aars__:/home/ihab/git/AngelEyes/android/libs/listviewanimations_lib-core_3.1.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.android.support:animated-vector-drawable-25.3.1" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-analytics-12.0.0" level="project" />
     <orderEntry type="library" name="com.google.firebase:firebase-analytics-license-12.0.0" level="project" />
+    <orderEntry type="library" name="__local_aars__:/home/ihab/AndroidStudioProjects/AngelEyes/android/libs/listviewanimations_lib-core_3.1.0.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="__local_aars__:/home/ihab/AndroidStudioProjects/AngelEyes/android/libs/nineoldandroids-2.4.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" scope="TEST" name="org.hamcrest:hamcrest-library:1.3@jar" level="project" />
     <orderEntry type="library" name="com.android.support:appcompat-v7-25.3.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-v4-26.1.0" level="project" />
